@@ -12,7 +12,7 @@ The Cloud technical track of Women Who Code is a community dedicated to inspirin
 
 Join our community conversations!
 
-[Slack](https://join.slack.com/t/wwcodecloud/shared_invite/zt-fsr8x4av-mmSMyzczGiKjBdKAODs0Dg)  
+[Slack](https://join.slack.com/t/wwcodecloud/shared_invite/zt-lngnes83-iq8TuBLOtAGXnHFaM5~sTw)  
 [Twitter](https://twitter.com/wwcodecloud)  
 [Instagram](https://www.instagram.com/wwcodecloud/)  
 [Facebook](https://www.facebook.com/Women-Who-Code-Cloud-147081753767317)  
