@@ -27,3 +27,4 @@
 
 1. Google Cloud Skills Challenge https://inthecloud.withgoogle.com/google-cloud-skills/register.html
 2. Google Cloud Skills Challenge with quiklabs https://go.qwiklabs.com/qwiklabs-free
+3. Microsoft Virtual Training Days https://www.microsoft.com/en-us/trainingdays
