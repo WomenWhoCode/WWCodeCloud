@@ -6,7 +6,7 @@
 2. AWS Free Training https://aws.amazon.com/training/learn-about/?nc2=sb_tr_la
 3. AWS Labs at Qwiklabs https://amazon.qwiklabs.com/?refid=gs_card
 4. Free Amazon AWS Courses and Tutorials https://www.udemy.com/topic/amazon-aws/free/
-5. 
+5. AWS Free Hands-On Labs https://aws.amazon.com/getting-started/hands-on/
 
 ## Google Cloud
 
