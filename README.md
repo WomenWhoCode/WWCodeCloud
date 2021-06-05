@@ -16,6 +16,7 @@ Join our community conversations!
 [Twitter](https://twitter.com/wwcodecloud)  
 [Instagram](https://www.instagram.com/wwcodecloud/)  
 [Facebook](https://www.facebook.com/Women-Who-Code-Cloud-147081753767317)  
+[LinkedIn](https://www.linkedin.com/company/women-who-code)
 
 ## Event Resources
 
