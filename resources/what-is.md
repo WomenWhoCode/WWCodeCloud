@@ -27,3 +27,11 @@ A software development practice of integrating changes to a code repository by m
 ## What is Continuous Delivery?
 
 A discipline of being able to deploy the software frequently and reliably on demand or as soon as code is checked in. It also includes the ability to quickly find out if there are issues through testing or monitoring and a strategy to bring the application back to a working state.
+
+
+
+## What is GitOps?
+Gitops is a pattern of creating systems by declaring the desired state of the system (declarative). The undeline principals are rooted in  version control combined with Kubernetes. GitOps principals eases the toil of kubernetes cluster management across tools and vendors.  These principals allow developers to create resources that were typically created outside of development.
+
+## What is Kubernetes?
+Kubernetes is a container-orchestrations system that falls under the open source licensing. Orignally designed by Google to achieve high server utilization through scheduled containers accross a cluster of servers. Kubernetes is often shortened to K8s.
