@@ -38,7 +38,7 @@ Kubernetes is a container-orchestration system that falls under the open source 
 
 ## What is SIEM?
 
-SEIM stands for Security information and event management. SEIM approaches security management through the aggregation of data from various sources with the goal of identifying deviations.This is achieved by combining the automatic collection of event logs (SIM) with the technique of analyzing security data with algorithms(SEM).
+SIEM stands for Security information and event management. SIEM approaches security management through the aggregation of data from various sources with the goal of identifying deviations.This is achieved by combining the automatic collection of event logs (SIM) with the technique of analyzing security data with algorithms(SEM).
 
 
 ## What is a CDN?
