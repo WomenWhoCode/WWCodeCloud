@@ -2,7 +2,7 @@
 
 Ever wondered what all the terms mean that are thrown around in the Cloud space?
 
-This is a compilation of different words used in the industry that we hear about and our attempt to demsytify their meaning.
+This is a compilation of different words used in the industry that we hear about and our attempt to demystify their meaning.
 
 ## What is Cloud Computing?
 
@@ -29,9 +29,18 @@ A software development practice of integrating changes to a code repository by m
 A discipline of being able to deploy the software frequently and reliably on demand or as soon as code is checked in. It also includes the ability to quickly find out if there are issues through testing or monitoring and a strategy to bring the application back to a working state.
 
 
-
 ## What is GitOps?
-Gitops is a pattern of creating systems by declaring the desired state of the system (declarative). The undeline principals are rooted in  version control combined with Kubernetes. GitOps principals eases the toil of kubernetes cluster management across tools and vendors.  These principals allow developers to create resources that were typically created outside of development.
+Gitops is a pattern of creating systems by declaring the desired state of the system (declarative). The underlying principles are rooted in version control combined with Kubernetes. GitOps principles ease the toil of Kubernetes cluster management across tools and vendors.  These principles allow developers to create resources that were typically created outside of development.
+
 
 ## What is Kubernetes?
-Kubernetes is a container-orchestrations system that falls under the open source licensing. Orignally designed by Google to achieve high server utilization through scheduled containers accross a cluster of servers. Kubernetes is often shortened to K8s.
+Kubernetes is a container-orchestration system that falls under the open source licensing. Originally designed by Google to achieve high server utilization through scheduled containers across a cluster of servers. Kubernetes is often shortened to K8s.
+
+## What is SIEM?
+
+SEIM stands for Security information and event management. SEIM approaches security management through the aggregation of data from various sources with the goal of identifying deviations.This is achieved by combining the automatic collection of event logs (SIM) with the technique of analyzing security data with algorithms(SEM).
+
+
+## What is a CDN?
+
+CDN stands for content delivery network or content distribution network. It is the collection of geographically distributed networks composed of proxy servers and data centers. CDNs exist to deliver content relative to the location of the requester.
