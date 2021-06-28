@@ -28,19 +28,32 @@ A software development practice of integrating changes to a code repository by m
 
 A discipline of being able to deploy the software frequently and reliably on demand or as soon as code is checked in. It also includes the ability to quickly find out if there are issues through testing or monitoring and a strategy to bring the application back to a working state.
 
-
 ## What is GitOps?
-Gitops is a pattern of creating systems by declaring the desired state of the system (declarative). The underlying principles are rooted in version control combined with Kubernetes. GitOps principles ease the toil of Kubernetes cluster management across tools and vendors.  These principles allow developers to create resources that were typically created outside of development.
-
+Gitops is a pattern of creating systems by declaring the desired state of the system (declarative). The underlying principles are rooted in version control combined with Kubernetes. This allows developers to create resources that were typically created outside of development.
 
 ## What is Kubernetes?
 Kubernetes is a container-orchestration system that falls under the open source licensing. Originally designed by Google to achieve high server utilization through scheduled containers across a cluster of servers. Kubernetes is often shortened to K8s.
 
 ## What is SIEM?
 
-SIEM stands for Security information and event management. SIEM approaches security management through the aggregation of data from various sources with the goal of identifying deviations.This is achieved by combining the automatic collection of event logs (SIM) with the technique of analyzing security data with algorithms(SEM).
-
+Security Information & Event Management approaches security management through the aggregation of data from various sources with the goal of identifying deviations. This is achieved by combining automatic collection of event logs (SIM) with a technique of analyzing security data with algorithms (SEM).
 
 ## What is a CDN?
 
-CDN stands for content delivery network or content distribution network. It is the collection of geographically distributed networks composed of proxy servers and data centers. CDNs exist to deliver content relative to the location of the requester.
+CDN stands for Content Delivery Network or Content Distribution Network. It is the collection of geographically distributed networks composed of proxy servers and data centers. CDNs exist to deliver content relative to the location of the requester.
+
+## What is Serverless?
+
+A development model where backend logic is triggered through events and executed in infrastructure provisioned and managed by the cloud provider. This is also referred to as FAAS or Functions as a Service.
+
+## What is IAAS?
+
+Infrastructure as a Service is a cloud computing service that offers essential compute, storage, and networking resources on demand and on a pay-as-you-go basis. You are still responsible for configuration and management of the resources. Examples are Amazon EC2, Azure VMs or Google Compute Engine.
+
+## What is PAAS?
+
+Platform as a Service is a cloud computing service where hardware and software tools are made available over the Internet for application development but they are managed by the cloud provider. Some examples are Heroku, AWS Elastic Beanstalk or Google App Engine.
+
+## What is SAAS?
+
+Software as a Service is a service where an application is available for use by a third party vendor either in a web browser or mobile app and the hosting and management of the application is completely handled by that third party. Popular examples are Slack, SurveyMonkey or Salesforce.
