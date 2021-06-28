@@ -56,4 +56,4 @@ Platform as a Service is a cloud computing service where hardware and software t
 
 ## What is SAAS?
 
-Software as a Service is a service where an application is available for use by a third party vendore either in a web browser or mobile app and the hosting and management of the application is completely handled by that third party. Popular examples are Slack, SurveyMonkey or Salesforce.
+Software as a Service is a service where an application is available for use by a third party vendor either in a web browser or mobile app and the hosting and management of the application is completely handled by that third party. Popular examples are Slack, SurveyMonkey or Salesforce.
